@@ -7,7 +7,7 @@ Hi! I'm Princess Evangeline Pocon but it's too lengthy so you can just call me P
 ## :frowning_woman: About me
 - :penguin: Linux User
 - :trollface: I know how to exit Vim
-- :fish: I enjoy using the terminal
+- :fish: I love to do stuffs using the terminal
 
 ### :toolbox: Languages & Tools
 <p align="center">
@@ -25,17 +25,4 @@ Hi! I'm Princess Evangeline Pocon but it's too lengthy so you can just call me P
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prxncxss03&theme=synthwave)
 
 
-<!--
-**prxncxss03/prxncxss03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
