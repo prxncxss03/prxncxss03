@@ -1,4 +1,11 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23AB74B3&vCenter=true&lines=I+am+Princess+Pocon;I+love+programming!;but+programming+doesn't+love+me+%3A()](https://git.io/typing-svg)
+### Princess Pocon
+Hi! I'm Princess Evangeline Pocon but it's too lengthy so you can just call me Princess. I am from the Philippines and I'm currently a 2nd year BS Information System student. I am still a newbie when it comes to programming but I want to become proficient in it. I really enjoy programming and I also love using the terminal.
+
+## More About me
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prxncxss03)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **prxncxss03/prxncxss03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
