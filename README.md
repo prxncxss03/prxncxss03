@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF2BB0&vCenter=true&lines=%F0%9F%91%8B++I'm+Princess+Pocon;I+love+programming!+%F0%9F%A5%B2+;but+programming+doesn't+love+me+%F0%9F%98%AD++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF2BB0&vCenter=true&lines=%F0%9F%91%8B++I'm+Princess+Pocon;I+love+programming!+%F0%9F%98%8E;but+programming+doesn't+love+me+%F0%9F%98%AD++)](https://git.io/typing-svg)
 
 # Princess Pocon
 ![](https://visitor-badge.laobi.icu/badge?page_id=prxncxss03) [![GitHub followers](https://img.shields.io/github/followers/prxncxss03.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/prxncxss03?tab=followers) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)  
