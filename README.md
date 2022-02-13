@@ -6,14 +6,20 @@ Hi! I'm Princess Evangeline Pocon but it's too lengthy so you can just call me P
 
 ## :frowning_woman: About me
 - :penguin: Linux User
+- 🐍 Pythonista
 - :trollface: I know how to exit Vim
 - :fish: I love to do stuffs using the terminal
+
+
 
 ### :toolbox: Languages & Tools
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84000523/139789758-53cb144c-4b0e-49ad-b4a2-35a5d2f7d5f1.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/84000523/139791090-918552d3-07a9-460f-b7a0-25720022bdd9.png" alt="css3" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/84000523/153745601-8149f24d-c444-4714-96a7-73cbed26e5a6.png" alt="JS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/84000523/153745563-3a1d706d-425f-4dd0-88a3-c7d31fc12ebc.png" alt="PHP" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/84000523/153745599-aceb8276-cc43-4353-8e44-bf2a0081a782.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/84000523/139808393-84ef9b6c-cecc-4acf-93af-431f994ebcfe.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/84000523/139808512-63d3a3de-238a-4053-8ef3-6389566b3d78.png" alt="Netlify" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/84000523/139790575-ebed2c59-9bf5-4a85-bc2c-e88afdf0a54f.png" alt="Neovim" height="40" style="vertical-align:top; margin:4px">
