@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF2BB0&vCenter=true&lines=%F0%9F%91%8B++I'm+Princess+Pocon;I+love+programming!+%F0%9F%98%8E;but+programming+doesn't+love+me+%F0%9F%98%AD++)](https://git.io/typing-svg)
 
 # Princess Pocon
-style=social&label=Follow&maxAge=2592000)](https://github.com/prxncxss03?tab=followers) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) ![](https://www.codewars.com/users/prxncxss03/badges/micro)  
+
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) ![](https://www.codewars.com/users/prxncxss03/badges/micro)  
 Hi! I'm Princess Evangeline Pocon but it's too lengthy so you can just call me Princess. I am from the Philippines and I'm currently a 2nd year BS Information System student. I am still a newbie when it comes to programming but I want to become proficient in it. I really enjoy programming and I also love using the terminal.
 
 ## :frowning_woman: About me
