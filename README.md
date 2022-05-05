@@ -3,7 +3,7 @@
 # Princess Pocon
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) ![](https://www.codewars.com/users/prxncxss03/badges/micro)  
-Hi! I'm Princess Evangeline Pocon. I'm from the Philippines and currently a 2nd year BS Information System student. I'm still a newbie when it comes to programming but I want to become proficient in it. 
+Hi! I'm Princess Evangeline Pocon. I'm from the Philippines and currently a 2nd year BS Information System student. I'm still a newbie when it comes to programming but I want to be proficient in it. 
 
 ## :frowning_woman: About me
 - :penguin: Linux User 
