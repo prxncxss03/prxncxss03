@@ -14,7 +14,7 @@ Hi! I'm Princess Evangeline Pocon. I'm from the Philippines and currently a 2nd 
 
 
 
-### :toolbox: Languages & Tools
+### 🔩 Languages & Tools
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84000523/139789758-53cb144c-4b0e-49ad-b4a2-35a5d2f7d5f1.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/84000523/139791090-918552d3-07a9-460f-b7a0-25720022bdd9.png" alt="css3" height="40" style="vertical-align:top; margin:4px">
