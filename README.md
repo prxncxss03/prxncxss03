@@ -10,7 +10,7 @@ Hi! I'm Princess Evangeline Pocon. I'm from the Philippines and currently a 2nd 
 - 🐍 Pythonistang hilaw
 - :trollface: I know how to exit Vim
 - :fish: I love to do stuffs using the terminal
-- 👨‍🔧 I want to work at FAANG/MAANG Company (Impossible but still hoping XD) 
+- 👨‍🔧 I want to work at FAANG/MAANG Company (Although Impossible) 
 
 
 
