@@ -27,7 +27,7 @@
 <div align ="center">
  
 ```python
-print("SWE wanna be")
+print("SWE wannabe")
 ```
 </div>
 
