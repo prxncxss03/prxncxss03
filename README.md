@@ -1,5 +1,6 @@
 
 ![banner (1)](https://user-images.githubusercontent.com/84000523/176388015-ab2b4e10-1bec-49cd-bedf-fd773073ec37.gif)
+
 <div align ="center">
 <!--
  [![mongo db](https://img.shields.io/static/v1?label=&message=mongo+db&color=%23bd93f9&style=for-the-badge&logo=MongoDB&logoColor=%2350fa7b)](https://)
@@ -40,5 +41,5 @@ print("SWE wannabe")
 </h2>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=prxncxss03&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prxncxss03&layout=compact)
 <--
